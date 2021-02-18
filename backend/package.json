@@ -1,8 +1,8 @@
 {
-  "name": "Marketplace",
+  "name": "Apori-Store",
   "version": "1.0.0",
   "main": "server.js",
-  "repository": "https://github.com/dmalembe/Marketplace.git",
+  "repository": "https://github.com/dmalembe/Apori-Store.git",
   "author": "Didier Malembe <malembedidier24@gmail.com>",
   "license": "MIT",
   "dependencies": {
